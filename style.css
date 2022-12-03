@@ -76,3 +76,15 @@ body{
         width: 400px;
     }
 }
+.header{
+    position: absolute;
+    bottom: 25px;
+    left: 43%;
+}
+.header h4{
+    font-size: 20px;
+    color: #ffffff;
+}
+h4 span{
+    color: #dc52ab;
+}
